@@ -10,6 +10,6 @@ This is a sample Express HTTP server that demonstrates how to invalidate JSON we
 It uses **ES Modules** and modern JavaScript syntax.  While I did not test, it probably works with NodeJS v16 and 
 above, but in all honesty, I have only ever run it in NodeJS v18.
 
-Read [this article]() for a detailed explanation of how all this works.
+Read [this article](https://webjose.hashnode.dev/invalidating-json-web-tokens-jwt-nodejs-express) for a detailed explanation of how all this works.
 
 Have fun!
