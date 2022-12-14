@@ -9,9 +9,9 @@ export default await wjConfig()
         },
         db: {
             host: "localhost",
-            user: "generaldb_admin",
-            password: "123@test!",
-            database: "GeneralDB"
+            user: "",
+            password: "",
+            database: ""
         }
     })
     .build();
